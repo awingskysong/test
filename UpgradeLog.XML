@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MyDictionary">
+</Property><Property Name="解决方案文件" Value="D:\个人项目\MyDictionary\MyDictionary\MyDictionary.sln">
+</Property><Property Name="用户选项文件" Value="D:\个人项目\MyDictionary\MyDictionary\MyDictionary.suo">
+</Property><Property Name="Date" Value="2012年7月25日">
+</Property><Property Name="Time" Value="16:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MyDictionary.sln" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MyDictionary.suo" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary.suo">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\MyDictionary.csproj" Description="项目文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\MyDictionary.csproj">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\MyDictionary.csproj.user" Description="项目用户文件成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\MyDictionary.csproj.user">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Common.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Common.cs">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionary.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionary.cs">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\MainClass.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\MainClass.cs">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\MainForm.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\MainForm.Designer.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\MainSpellCheck.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\MainSpellCheck.cs">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Program.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Program.cs">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\RichTextPaintControl.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\RichTextPaintControl.cs">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\SettingForm.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\SettingForm.cs">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\SettingForm.Designer.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\SettingForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Properties\Settings.settings" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\App.config" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\App.config">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionarys\langdao\langdao.dict" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionarys\langdao\langdao.dict">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionarys\langdao\langdao.idx" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionarys\langdao\langdao.idx">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionarys\langdao\langdao.ifo" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionarys\langdao\langdao.ifo">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionarys\longman\longman.dict" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionarys\longman\longman.dict">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionarys\longman\longman.idx" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionarys\longman\longman.idx">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionarys\longman\longman.ifo" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionarys\longman\longman.ifo">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionarys\oald\oald.dict" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionarys\oald\oald.dict">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionarys\oald\oald.idx" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionarys\oald\oald.idx">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionarys\oald\oald.ifo" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionarys\oald\oald.ifo">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionarys\web1913\web1913.dict" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionarys\web1913\web1913.dict">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionarys\web1913\web1913.idx" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionarys\web1913\web1913.idx">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionarys\web1913\web1913.ifo" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionarys\web1913\web1913.ifo">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\SpellCheckDict\american.xlg" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\SpellCheckDict\american.xlg">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\SpellCheckDict\english.aff" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\SpellCheckDict\english.aff">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Dictionarys.xml" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Dictionarys.xml">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\image\dictionary.ico" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\image\dictionary.ico">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\image\setting.ico" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\image\setting.ico">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\image\up.png" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\image\up.png">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\image\down.png" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\image\down.png">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\image\setting.png" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\image\setting.png">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\image\search.png" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\image\search.png">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\SpellCheckDict\EnglishAlphabet.txt" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\SpellCheckDict\EnglishAlphabet.txt">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\MainForm.resx" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Properties\licenses.licx" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Properties\licenses.licx">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\Properties\Resources.resx" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\SettingForm.resx" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyDictionary\SettingForm.resx">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\MyDictionary.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyDictionary" Source="MyDictionary\MyDictionary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SetUp.vdproj" Source="SetUp\SetUp.vdproj" Description="项目文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\SetUp\SetUp.vdproj">
+</Event><Event ErrorLevel="0" Project="MyControlLibrary" Source="MyControlLibrary\MyControlLibrary.csproj" Description="项目文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyControlLibrary\MyControlLibrary.csproj">
+</Event><Event ErrorLevel="0" Project="MyControlLibrary" Source="MyControlLibrary\Class1.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyControlLibrary\Class1.cs">
+</Event><Event ErrorLevel="0" Project="MyControlLibrary" Source="MyControlLibrary\MyListBox.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyControlLibrary\MyListBox.cs">
+</Event><Event ErrorLevel="0" Project="MyControlLibrary" Source="MyControlLibrary\MyListBox.Designer.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyControlLibrary\MyListBox.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyControlLibrary" Source="MyControlLibrary\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyControlLibrary\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyControlLibrary" Source="MyControlLibrary\MyListBox.resx" Description="文件已成功备份为 D:\个人项目\MyDictionary\MyDictionary\Backup\MyControlLibrary\MyListBox.resx">
+</Event><Event ErrorLevel="0" Project="MyControlLibrary" Source="MyControlLibrary\MyControlLibrary.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyControlLibrary" Source="MyControlLibrary\MyControlLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MyDictionary.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="MyDictionary.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyDictionary" Source="MyDictionary\MyDictionary.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="MyControlLibrary" Source="MyControlLibrary\MyControlLibrary.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
