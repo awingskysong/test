@@ -5,3 +5,5 @@ Git is free software distributed under the GPL dev branch
 Git is free software distributed under the GPL dev branch hehe
 
 Git is free software distributed under the GPL dev branch hehe hjhhj
+
+Git is free software distributed under the GPL dev branch hehe hjhhj --no--ff
